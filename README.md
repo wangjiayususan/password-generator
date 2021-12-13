@@ -4,7 +4,7 @@ This project was designed for Rice University coding bootcamp.
 This application emphasizes the use of Javascript to generate a random password for the user.
 
 ## Getting Started
-[GitHub Repository] (https://github.com/wangjiayususan/password-generator)
+[GitHub Repository](https://github.com/wangjiayususan/password-generator/)
 [Deployed Github IO] (file:///Users/corgiwang/Desktop/Challenge/password-generator/index.html)
 
 ## Summary
