@@ -5,6 +5,7 @@ This application emphasizes the use of Javascript to generate a random password 
 
 ## Getting Started
 [GitHub Repository](https://github.com/wangjiayususan/password-generator/)
+
 [Deployed Github IO](https://github.com/wangjiayususan/password-generator.git)
 
 ## Summary
